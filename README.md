@@ -7,4 +7,3 @@
 <h2>Introdução</h2>
 <p>PromoHub é um projeto de um aplicativo/site que reune promoções de sites de terceiros.</p>
 <p>Tem a finalidade de ser o trabalho de conclusão de curso.</p>
-<h2>API's</h2>
